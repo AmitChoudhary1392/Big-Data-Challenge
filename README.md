@@ -27,7 +27,7 @@ There are two levels to this homework assignment. The second level is optional b
 
   * Count the number of records (rows) in the dataset.
 
-  * **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql). Be sure the DataFrames match in data type and in column name.
+  * **Transform** the dataset to fit the tables in the [schema file](../schema.sql). Be sure the DataFrames match in data type and in column name.
 
   * **Load** the DataFrames that correspond to tables into an RDS instance. **Note:** This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
 
@@ -35,7 +35,7 @@ There are two levels to this homework assignment. The second level is optional b
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
-  ![vine01.png](../Images/vine01.png)
+  ![vine01.png](../vine01.png)
 
 Amazon has several policies to reduce the bias of its Vine reviews: [https://www.amazon.com/gp/vine/help?ie=UTF8](https://www.amazon.com/gp/vine/help?ie=UTF8).
 
